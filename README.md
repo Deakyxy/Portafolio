@@ -1,6 +1,6 @@
 # ¡Hola! Soy Alan Michelle 👋
 
-### 🚀 Estudiante de Ingeniería en Sistemas Computacionales y Electrónica (ISCE)
+### 🚀 Estudiante de Ingeniería en Sistemas Computacionales y Electrónicos (ISCE)
 Me apasiona tender puentes entre el mundo físico y el digital. Mi enfoque va desde el desarrollo de software **Full Stack** hasta la implementación de soluciones con **Hardware y Robótica**.
 
 ---
