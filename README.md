@@ -38,7 +38,7 @@ Software de administración para salones de belleza desarrollado bajo metodolog�
 
 ## 📫 Conecta conmigo:
 * **Ubicación:** Tampico, Tamaulipas, México 🇲🇽
-* **LinkedIn:** ([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/alan-michelle-corona-cruz-057994330/))
+* **LinkedIn:** (https://www.linkedin.com/in/alan-michelle-corona-cruz-057994330/))
 * **Portfolio:** [En construcción 🚧]
 
 ---
