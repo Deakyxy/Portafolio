@@ -28,7 +28,7 @@ Un sistema de comunicación bidireccional diseñado para cerrar la brecha entre 
 * **Tecnologías:** Arduino/ESP32, C++, Servomotores y procesamiento de strings.
 
 ### 🅿️ Automated Parking System
-Sistema de control de estacionamiento automatizado que integra **C# (Windows Forms)** para la interfaz de gestión y sensores físicos para la detección y monitoreo de vehículos en tiempo real.
+Sistema de control de estacionamiento automatizado que integra C++ en el codigo y sensores físicos para la detección y monitoreo de vehículos en tiempo real.
 
 ### 💇‍♂️ D´Cury Rotsen System
 Software de administración para salones de belleza desarrollado bajo metodología **Scrum**. Incluye gestión de inventarios y citas con un enfoque en la optimización de consultas en SQL Server.
