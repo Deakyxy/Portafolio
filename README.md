@@ -21,7 +21,7 @@ Me apasiona tender puentes entre el mundo físico y el digital. Mi enfoque va de
 
 ## 🏗️ Proyectos Destacados
 
-### 🤖 [LSM-Tech: Mano Robótica Intérprete](https://github.com/tu-usuario/lsm-tech)
+### 🤖 [LSM-Tech: Mano Robótica Intérprete]
 Un sistema de comunicación bidireccional diseñado para cerrar la brecha entre el lenguaje hablado y la Lengua de Señas Mexicana (LSM).
 * **Interacción Terminal-Hardware:** El usuario escribe un mensaje en la terminal y el sistema procesa el texto para que una **mano robótica** replique las señas en tiempo real.
 * **Control de Precisión:** Implementación de lógica de movimiento mediante **servomotores** coordinados para lograr las posturas específicas de cada letra/seña.
