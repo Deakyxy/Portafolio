@@ -21,10 +21,11 @@ Me apasiona tender puentes entre el mundo físico y el digital. Mi enfoque va de
 
 ## 🏗️ Proyectos Destacados
 
-### 🧤 [LSM-Tech](https://github.com/tu-usuario/lsm-tech) 
-Sistema interactivo de Lengua de Señas Mexicana (LSM). El proyecto permite una comunicación dual:
-* **Entrada:** Traduce movimientos del guante (sensores de flexión) a texto/audio.
-* **Salida:** Al escribir un mensaje en la terminal, la mano robótica replica la configuración de señas mediante el movimiento coordinado de **servomotores**.
+### 🤖 [LSM-Tech: Mano Robótica Intérprete](https://github.com/tu-usuario/lsm-tech)
+Un sistema de comunicación bidireccional diseñado para cerrar la brecha entre el lenguaje hablado y la Lengua de Señas Mexicana (LSM).
+* **Interacción Terminal-Hardware:** El usuario escribe un mensaje en la terminal y el sistema procesa el texto para que una **mano robótica** replique las señas en tiempo real.
+* **Control de Precisión:** Implementación de lógica de movimiento mediante **servomotores** coordinados para lograr las posturas específicas de cada letra/seña.
+* **Tecnologías:** Arduino/ESP32, C++, Servomotores y procesamiento de strings.
 
 ### 🅿️ Automated Parking System
 Sistema de control de estacionamiento automatizado que integra **C# (Windows Forms)** para la interfaz de gestión y sensores físicos para la detección y monitoreo de vehículos en tiempo real.
