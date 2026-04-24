@@ -22,13 +22,15 @@ Me apasiona tender puentes entre el mundo físico y el digital. Mi enfoque va de
 ## 🏗️ Proyectos Destacados
 
 ### 🧤 [LSM-Tech](https://github.com/tu-usuario/lsm-tech) 
-Traductor de Lengua de Señas Mexicana mediante un guante inteligente. Utiliza sensores de flexión y comunicación Bluetooth para procesar movimientos y convertirlos en texto/audio.
+Sistema interactivo de Lengua de Señas Mexicana (LSM). El proyecto permite una comunicación dual:
+* **Entrada:** Traduce movimientos del guante (sensores de flexión) a texto/audio.
+* **Salida:** Al escribir un mensaje en la terminal, la mano robótica replica la configuración de señas mediante el movimiento coordinado de **servomotores**.
 
 ### 🅿️ Automated Parking System
-Sistema de control de estacionamiento automatizado integrando C# para la interfaz de gestión y sensores físicos para la detección de vehículos en tiempo real.
+Sistema de control de estacionamiento automatizado que integra **C# (Windows Forms)** para la interfaz de gestión y sensores físicos para la detección y monitoreo de vehículos en tiempo real.
 
 ### 💇‍♂️ D´Cury Rotsen System
-Gestor de administración para estéticas desarrollado bajo metodología **Scrum**, enfocado en la experiencia de usuario y optimización de bases de datos.
+Software de administración para salones de belleza desarrollado bajo metodología **Scrum**. Incluye gestión de inventarios y citas con un enfoque en la optimización de consultas en SQL Server.
 
 ---
 
